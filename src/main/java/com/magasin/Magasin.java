@@ -19,7 +19,6 @@ class Magasin {
                         break;
 
                     case "Kryptonite":
-                        // Ne rien faire : objet légendaire
                         break;
 
                     case "Pouvoirs magiques":
