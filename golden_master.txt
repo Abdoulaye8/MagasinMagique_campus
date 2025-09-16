@@ -1,0 +1,186 @@
+-------- day 0 --------
+Normal, 10, 20
+Comté, 2, 0
+Kryptonite, 0, 80
+Pass VIP Concert, 15, 20
+Pouvoirs magiques, 3, 6
+-------- day 1 --------
+Normal, 9, 19
+Comté, 1, 1
+Kryptonite, 0, 80
+Pass VIP Concert, 14, 21
+Pouvoirs magiques, 2, 5
+-------- day 2 --------
+Normal, 8, 18
+Comté, 0, 2
+Kryptonite, 0, 80
+Pass VIP Concert, 13, 22
+Pouvoirs magiques, 1, 4
+-------- day 3 --------
+Normal, 7, 17
+Comté, -1, 4
+Kryptonite, 0, 80
+Pass VIP Concert, 12, 23
+Pouvoirs magiques, 0, 3
+-------- day 4 --------
+Normal, 6, 16
+Comté, -2, 6
+Kryptonite, 0, 80
+Pass VIP Concert, 11, 24
+Pouvoirs magiques, -1, 1
+-------- day 5 --------
+Normal, 5, 15
+Comté, -3, 8
+Kryptonite, 0, 80
+Pass VIP Concert, 10, 25
+Pouvoirs magiques, -2, 0
+-------- day 6 --------
+Normal, 4, 14
+Comté, -4, 10
+Kryptonite, 0, 80
+Pass VIP Concert, 9, 27
+Pouvoirs magiques, -3, 0
+-------- day 7 --------
+Normal, 3, 13
+Comté, -5, 12
+Kryptonite, 0, 80
+Pass VIP Concert, 8, 29
+Pouvoirs magiques, -4, 0
+-------- day 8 --------
+Normal, 2, 12
+Comté, -6, 14
+Kryptonite, 0, 80
+Pass VIP Concert, 7, 31
+Pouvoirs magiques, -5, 0
+-------- day 9 --------
+Normal, 1, 11
+Comté, -7, 16
+Kryptonite, 0, 80
+Pass VIP Concert, 6, 33
+Pouvoirs magiques, -6, 0
+-------- day 10 --------
+Normal, 0, 10
+Comté, -8, 18
+Kryptonite, 0, 80
+Pass VIP Concert, 5, 35
+Pouvoirs magiques, -7, 0
+-------- day 11 --------
+Normal, -1, 8
+Comté, -9, 20
+Kryptonite, 0, 80
+Pass VIP Concert, 4, 38
+Pouvoirs magiques, -8, 0
+-------- day 12 --------
+Normal, -2, 6
+Comté, -10, 22
+Kryptonite, 0, 80
+Pass VIP Concert, 3, 41
+Pouvoirs magiques, -9, 0
+-------- day 13 --------
+Normal, -3, 4
+Comté, -11, 24
+Kryptonite, 0, 80
+Pass VIP Concert, 2, 44
+Pouvoirs magiques, -10, 0
+-------- day 14 --------
+Normal, -4, 2
+Comté, -12, 26
+Kryptonite, 0, 80
+Pass VIP Concert, 1, 47
+Pouvoirs magiques, -11, 0
+-------- day 15 --------
+Normal, -5, 0
+Comté, -13, 28
+Kryptonite, 0, 80
+Pass VIP Concert, 0, 50
+Pouvoirs magiques, -12, 0
+-------- day 16 --------
+Normal, -6, 0
+Comté, -14, 30
+Kryptonite, 0, 80
+Pass VIP Concert, -1, 0
+Pouvoirs magiques, -13, 0
+-------- day 17 --------
+Normal, -7, 0
+Comté, -15, 32
+Kryptonite, 0, 80
+Pass VIP Concert, -2, 0
+Pouvoirs magiques, -14, 0
+-------- day 18 --------
+Normal, -8, 0
+Comté, -16, 34
+Kryptonite, 0, 80
+Pass VIP Concert, -3, 0
+Pouvoirs magiques, -15, 0
+-------- day 19 --------
+Normal, -9, 0
+Comté, -17, 36
+Kryptonite, 0, 80
+Pass VIP Concert, -4, 0
+Pouvoirs magiques, -16, 0
+-------- day 20 --------
+Normal, -10, 0
+Comté, -18, 38
+Kryptonite, 0, 80
+Pass VIP Concert, -5, 0
+Pouvoirs magiques, -17, 0
+-------- day 21 --------
+Normal, -11, 0
+Comté, -19, 40
+Kryptonite, 0, 80
+Pass VIP Concert, -6, 0
+Pouvoirs magiques, -18, 0
+-------- day 22 --------
+Normal, -12, 0
+Comté, -20, 42
+Kryptonite, 0, 80
+Pass VIP Concert, -7, 0
+Pouvoirs magiques, -19, 0
+-------- day 23 --------
+Normal, -13, 0
+Comté, -21, 44
+Kryptonite, 0, 80
+Pass VIP Concert, -8, 0
+Pouvoirs magiques, -20, 0
+-------- day 24 --------
+Normal, -14, 0
+Comté, -22, 46
+Kryptonite, 0, 80
+Pass VIP Concert, -9, 0
+Pouvoirs magiques, -21, 0
+-------- day 25 --------
+Normal, -15, 0
+Comté, -23, 48
+Kryptonite, 0, 80
+Pass VIP Concert, -10, 0
+Pouvoirs magiques, -22, 0
+-------- day 26 --------
+Normal, -16, 0
+Comté, -24, 50
+Kryptonite, 0, 80
+Pass VIP Concert, -11, 0
+Pouvoirs magiques, -23, 0
+-------- day 27 --------
+Normal, -17, 0
+Comté, -25, 50
+Kryptonite, 0, 80
+Pass VIP Concert, -12, 0
+Pouvoirs magiques, -24, 0
+-------- day 28 --------
+Normal, -18, 0
+Comté, -26, 50
+Kryptonite, 0, 80
+Pass VIP Concert, -13, 0
+Pouvoirs magiques, -25, 0
+-------- day 29 --------
+Normal, -19, 0
+Comté, -27, 50
+Kryptonite, 0, 80
+Pass VIP Concert, -14, 0
+Pouvoirs magiques, -26, 0
+-------- day 30 --------
+Normal, -20, 0
+Comté, -28, 50
+Kryptonite, 0, 80
+Pass VIP Concert, -15, 0
+Pouvoirs magiques, -27, 0
