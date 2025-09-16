@@ -9,25 +9,25 @@ Normal, 9, 19
 Comté, 1, 1
 Kryptonite, 0, 80
 Pass VIP Concert, 14, 21
-Pouvoirs magiques, 2, 5
+Pouvoirs magiques, 2, 4
 -------- day 2 --------
 Normal, 8, 18
 Comté, 0, 2
 Kryptonite, 0, 80
 Pass VIP Concert, 13, 22
-Pouvoirs magiques, 1, 4
+Pouvoirs magiques, 1, 2
 -------- day 3 --------
 Normal, 7, 17
 Comté, -1, 4
 Kryptonite, 0, 80
 Pass VIP Concert, 12, 23
-Pouvoirs magiques, 0, 3
+Pouvoirs magiques, 0, 0
 -------- day 4 --------
 Normal, 6, 16
 Comté, -2, 6
 Kryptonite, 0, 80
 Pass VIP Concert, 11, 24
-Pouvoirs magiques, -1, 1
+Pouvoirs magiques, -1, 0
 -------- day 5 --------
 Normal, 5, 15
 Comté, -3, 8

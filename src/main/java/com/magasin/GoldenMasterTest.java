@@ -14,13 +14,14 @@ public class GoldenMasterTest {
                 new Item("Pass VIP Concert", 15, 20),
                 new Item("Pouvoirs magiques", 3, 6),
         };
-
-        Magasin magasin = new Magasin(cloneItems(items)); // IMPORTANT: ne pas muter original
+// garder l'origine
+       Magasin magasin = new Magasin(cloneItems(items));
         FileWriter goldenWriter = new FileWriter("golden_master.txt");
         FileWriter newWriter = new FileWriter("new_output.txt");
 
+
+        // boucle des 31jrs avec comparaison
         for (int day = 0; day <= 30; day++) {
-            // Impression pour comparaison
             goldenWriter.write("-------- day " + day + " --------\n");
             newWriter.write("-------- day " + day + " --------\n");
 
